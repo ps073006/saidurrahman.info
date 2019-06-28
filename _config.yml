@@ -172,7 +172,7 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
-  talks:
+  Research:
     output: true
     permalink: /:collection/:path/
 

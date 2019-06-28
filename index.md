@@ -1,11 +1,11 @@
 ---
 layout: frontpage
-title: Blue Ham
-description: Blue Ham is a PhD candidate at Broom University. 
-keywords: Blue, Ham, treats, recycling, mail, being a good boy
+title: Saidur Rahman
+description: Saidur Rahman is a PhD student at Montana State University.
+keywords: saidur, rahman, montana
 ---
-
-Blue Ham is a PhD candidate at Broom University. His research interests include analyzing the effectiveness of treat-based incentives such as recycling and getting the mail, as well as designing new methods to protect humans from the adverse effects of rolling trash receptacles.
+I am Saidur Rahman, a second-year PhD student (joined Fall-2017) in computer science at Montana State University, Bozeman, Montana. My advisor is Dr. Mike Wittie. I am interested in the design and analysis of Content Delivery Networks and measuring internet performance.
+I am from Dhaka, Bangladesh which has full of natural beauties located in South Asia. I have done my B. Sc final examination (CGPA: 3.55) in Department of Computer Science & Engineering, University of Dhaka. I worked a as a Research Assistant at the Green Networking Research Group in the same department. Then I joined Samsung R&D Institute Bangladesh (September 2016- December, 2016). I worked as a lecturer in State University of Bangladesh (CSE department) (December,2016 to May 2017).
 
 [curriculum vitae ![CV as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/CV.pdf)<br/>
 
@@ -18,14 +18,14 @@ Blue Ham is a PhD candidate at Broom University. His research interests include 
 
     <div class="row-fluid">
         <div class="span5">
-            Blue Ham<br/>
-            Email: WOOFWOOF@goodboy.com<br/>
+            Saidur Rahman<br/>
+            Email: sr.rifat@gmail.com<br/>
         </div>
 
         <div class="span2">
         <a href="../assets/headshot.jpg">
             <img src="../assets/headshot.jpg"
-                  title="Blue Ham" alt="Blue Ham"/></a>
+                  title="Saidur Rahman" alt="Blue Ham"/></a>
         </div>
     </div>
 </div>
@@ -35,7 +35,6 @@ Blue Ham is a PhD candidate at Broom University. His research interests include 
       <ul class="nav">
           <li><a href="{{ BASE_PATH }}/assets/CV.pdf">cv</a></li>
           <li><a href="https://github.com/mbcarlos">GitHub</a></li>
-          <li><a href="https://twitter.com/dog_feelings">Twitter (@dog_feelings)</a></li>
       </ul>
   </div>
 </div>

@@ -4,7 +4,5 @@ title: "Contact"
 permalink: /contact/
 author_profile: true
 ---
-Computer Science Department, Stanford University<br>
-Gates 158, 353 Serra Mall, Stanford, CA 94305<br>
-Email: lantaoyu [at] cs.stanford.edu
-
+Computer Science Department, Montana State University<br>
+346 Barnard Hall, Bozeman, MT 59715<br>

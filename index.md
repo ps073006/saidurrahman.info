@@ -7,7 +7,7 @@ keywords: saidur, rahman, montana
 I am Saidur Rahman, a second-year PhD student (joined Fall-2017) in computer science at Montana State University, Bozeman, Montana. My advisor is Dr. Mike Wittie. I am interested in the design and analysis of Content Delivery Networks and measuring internet performance.
 I am from Dhaka, Bangladesh which has full of natural beauties located in South Asia. I have done my B. Sc final examination (CGPA: 3.55) in Department of Computer Science & Engineering, University of Dhaka. I worked a as a Research Assistant at the Green Networking Research Group in the same department. Then I joined Samsung R&D Institute Bangladesh (September 2016- December, 2016). I worked as a lecturer in State University of Bangladesh (CSE department) (December,2016 to May 2017).
 
-[curriculum vitae ![CV as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/CV.pdf)<br/>
+[curriculum vitae ![CV as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)](https://drive.google.com/open?id=1_yVql-dvmtEDtGU-0F_6sEFFOSMffnfe)<br/>
 
 
 ---
@@ -33,7 +33,7 @@ I am from Dhaka, Bangladesh which has full of natural beauties located in South 
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
-          <li><a href="https://drive.google.com/open?id=1_yVql-dvmtEDtGU-0F_6sEFFOSMffnfe">cv</a></li>
+          <li><a href="https://drive.google.com/open?id=1_yVql-dvmtEDtGU-0F_6sEFFOSMffnfe">Resume</a></li>
           <li><a href="https://github.com/rifathcsedu">GitHub</a></li>
       </ul>
   </div>

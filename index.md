@@ -33,8 +33,8 @@ I am from Dhaka, Bangladesh which has full of natural beauties located in South 
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
-          <li><a href="{{ BASE_PATH }}/assets/CV.pdf">cv</a></li>
-          <li><a href="https://github.com/mbcarlos">GitHub</a></li>
+          <li><a href="https://drive.google.com/open?id=1_yVql-dvmtEDtGU-0F_6sEFFOSMffnfe">cv</a></li>
+          <li><a href="https://github.com/rifathcsedu">GitHub</a></li>
       </ul>
   </div>
 </div>

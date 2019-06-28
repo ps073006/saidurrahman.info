@@ -16,14 +16,15 @@ Education
 
 Work experience
 ======
+* Fall 2018: Research Assistant
+  * Montana State University
+  * Developing an application for ”USMP project (Unstable Slope Management Program)” using React-Native (Mobile App)and PHP-Javascript.  The objective of USMP is to guide manage slopes by developing and implementing an asset management-based unstable slope management program for Federal Land Management Agencies and Tribes.
+  * Supervisor: Dr. Mike P. Wittie
+
 * Fall 2017: Teaching Assistant
   * Montana State University
-  * Duties included: Tagging issues
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * Courses: Data Structure and Algorithm, Basic Data Structure and Algorithm and Discrete Math
+  * Duties included: Supervising programming labs, Grading assignments, tutoring students in office hours
 
 Skills
 ======

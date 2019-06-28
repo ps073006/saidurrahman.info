@@ -18,7 +18,7 @@ Work experience
 ======
 * Fall 2018: Research Assistant
   * Montana State University
-  * Developing an application for ”USMP project (Unstable Slope Management Program)” using React-Native (Mobile App)and PHP-Javascript.  The objective of USMP is to guide manage slopes by developing and implementing an asset management-based unstable slope management program for Federal Land Management Agencies and Tribes.
+  * Developing an application for ”USMP project (Unstable Slope Management Program)” using React-Native (Mobile App) and PHP-Javascript.  The objective of USMP is to guide manage slopes by developing and implementing an asset management-based unstable slope management program for Federal Land Management Agencies and Tribes.
   * Supervisor: Dr. Mike P. Wittie
 
 * Fall 2017: Teaching Assistant
@@ -28,7 +28,7 @@ Work experience
 
 * September 2016 - December 2016: Software Engineer
   * Samsung R & D Institute Bangladesh
-  * Project: \href{https://www.samsung.com/global/galaxy/gear-360/}{Worked a Gear 360 Degree Camera Application for Samsung Note 8. The Gear 360 has evolved to let user record in 4K or broadcast live.}
+  * Project: {\href{https://www.samsung.com/global/galaxy/gear-360/}{Worked a Gear 360 Degree Camera Application for Samsung Note 8. The Gear 360 has evolved to let user record in 4K or broadcast live.}}
 
 
 Skills

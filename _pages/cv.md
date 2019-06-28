@@ -26,6 +26,11 @@ Work experience
   * Courses: Data Structure and Algorithm, Basic Data Structure and Algorithm and Discrete Math
   * Duties included: Supervising programming labs, Grading assignments, tutoring students in office hours
 
+* September 2016 - December 2016: Software Engineer
+  * Samsung R & D Institute Bangladesh
+  * Project: \href{https://www.samsung.com/global/galaxy/gear-360/}{Worked a Gear 360 Degree Camera Application for Samsung Note 8. The Gear 360 has evolved to let user record in 4K or broadcast live.}
+
+
 Skills
 ======
 * Skill 1

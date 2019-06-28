@@ -1,0 +1,12 @@
+---
+title: "Optimal allocation of 3G budget for smartphones running heterogeneous applications"
+collection: publications
+permalink: /publications/Nsyss2016
+venue: "2016 International Conference on Networking Systems and Security (NSysS)"
+date: 2016-4-7
+citation: 'Saidur Rahman, <b>Anika Anzum Prima</b>, Md. Abdur Razzaque <i> IEEE Conference on Networking Systems and Security.</i> <b>NSysS 2016</b>.'
+---
+[[PDF]](http://saidurrahman.info/files/optimal.pdf)
+
+## Abstract
+Significant growth in number of smartphone users and applications running on them has been observed in recent decade. The applications require diverse amount of data bandwidths based on their interactivities. Data hungry applications demand huge plan whereas a background application is satisfied with a minimum amount. Thus, smartphone applications should be allocated their required budget in such a way that resource wastage is minimized and user experience is maximized. In this paper, we develop a prioritized and dynamic budget allocation policy for ensuring optimal amount of budget allocation to each application and improve system performance. In this regard, we formulate a linear programming optimization function that maximizes the utilization and minimizes resource wastage. We also develop runtime monitoring technique for estimating future bandwidth utilization. Experimental results confirm that system performance goes up using proposed algorithm and proves effectiveness of the algorithm.

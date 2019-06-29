@@ -4,13 +4,13 @@ main:
     url: /publications/
 
   - title: "Research"
-    url: /talks/
+    url: /research/
 
   - title: "News"
     url: /year-archive/
 
   - title: "Resume"
     url: /cv/
-    
+
   - title: "Teaching"
     url: /teaching/

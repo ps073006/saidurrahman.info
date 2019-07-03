@@ -1,8 +1,8 @@
 ---
-title: "MR-DNS: Multi-Resolution DNS System to Provide Faster Web Performance"
+title: "AR communication"
 collection: publications
-duration: "<b>(Fall 2017-Summer 2020)</b>"
-permalink: /research/mr-dns
+duration: "<b>(Summer 2020-Current)</b>"
+permalink: /research/augmented1
 abstract: ""
 ---
 

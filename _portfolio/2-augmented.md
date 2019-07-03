@@ -3,7 +3,7 @@ title: "AR communication"
 collection: publications
 duration: "<b>(Summer 2020-Current)</b>"
 permalink: /research/augmented1
-number: 2
+number: 1
 ---
 
 ## Abstract

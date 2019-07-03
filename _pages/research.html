@@ -5,9 +5,11 @@ permalink: /research/
 author_profile: true
 ---
 {% include base_path %}
-{% i=1 %}
+<<script type="text/javascript">
+  var i=1;
+</script>
 {% for post in site.portfolio reversed %}
-  <h4>{% i %}</h4>
+  <h4>{{i}}</h4>
   {% include archive-single-talk.html %}
-  {% i=i+1 %}
+  {{i=i+1}}
 {% endfor %}

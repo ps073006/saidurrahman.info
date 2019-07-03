@@ -1,7 +1,7 @@
 ---
 title: "MR-DNS: Multi-Resolution DNS System to Provide Faster Web Performance"
 collection: publications
-duration: "<h4><b>(Fall 2017-Summer 2020)</b></h4>"
+duration: "<b>(Fall 2017-Summer 2020)</b>"
 permalink: /research/mr-dns
 abstract: ""
 ---

@@ -6,7 +6,9 @@
   {% assign teaser = site.teaser %}
 {% endif %}
 {%assign mynum= post.number%}
-{%assign s= site.portfolio.size %}
+{%assign s= site.portfolio.size;
+s=s-mynum-1;
+  %}
 {% if post.id %}
   {% assign title = post.title | markdownify | remove: "<p>" | remove: "</p>" %}
 {% else %}
@@ -30,7 +32,7 @@
       {% if post.link %}
         <a href="{{ post.link }}">{{ title }}</a> <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
       {% else %}
-        <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{s}-{mynum}+{1}}. {{ title }}</a>
+        <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{s}}. {{ title }}</a>
       {% endif %}
     </h3>
 

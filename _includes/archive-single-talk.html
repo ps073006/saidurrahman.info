@@ -5,8 +5,8 @@
 {% else %}
   {% assign teaser = site.teaser %}
 {% endif %}
-{%assign mynum= post.number | to_integer %}
-{%assign s= site.portfolio.size | to_integer%}
+{%assign mynum= post.number %}
+{%assign s= site.portfolio.size%}
 {% if post.id %}
   {% assign title = post.title | markdownify | remove: "<p>" | remove: "</p>" %}
 {% else %}

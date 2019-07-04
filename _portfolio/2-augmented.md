@@ -1,5 +1,5 @@
 ---
-title: "AR communication"
+title: "Augmented Reality Communication"
 collection: publications
 duration: "<b>(Summer 2020-Current)</b>"
 permalink: /research/augmented1
@@ -8,4 +8,4 @@ number: 1
 
 ## Abstract
 
-Modern webpages become complex and richer to provide full-feature contents. However, it decreases the site responsiveness due to the growing number of DNS lookups. As users and service providers want faster responsive websites, developers proposed several web performance metrics such as First Meaningful Paint, Page Load Time, and Speed Index to analyze the performance of websites. In this paper, we investigate the performance of different webpages using web performance metrics and provide a novel mechanism MR-DNS to reduce DNS lookups and improve web performance. MR-DNS provides multi-resolution service to reduce DNS lookups in the local DNS and reduces incoming traffic to Authoritative DNS. We also investigate memory and network traffic conditions for MR-DNS system.
+The popularity of Augmented Reality applications is increasing. People want real-time service, up-to-date and personalized information in Augmented Reality (AR). The communication in AR is a challenge due to the high latency between the device to cloud communication, especially in vehicular applications. Vehicular applications need real-time services and data abstraction with minimal latency. In this survey paper, we comprehensively investigate augmented reality communication and compare how other technologies handle the problems of serving the data in real-time and what are the challenges to implementing similar solutions in AR systems. 

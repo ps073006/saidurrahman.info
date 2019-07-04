@@ -1,11 +1,11 @@
 ---
-title: "Teaching Assistant"
+title: "Teaching Assistant-Spring-2018"
 collection: teaching
-type: "Workshop"
+type: "TA"
 permalink: /teaching/spring2018
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: "Department of Computer Science, Montana State University"
+date: 2018-01-01
+location: "Bozeman, MT, USA"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.

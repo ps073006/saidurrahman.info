@@ -111,7 +111,7 @@ img {
   {% for post in site.world %}
 
     <div class="column">
-      <img class="demo cursor" src={{post.image}} style="width:100%" onclick="currentSlide(1)" alt={{post.title}}>
+      <img src={{post.image}} style="width:100%" alt={{post.title}}>
     </div>
   {% endfor %}
 

@@ -111,7 +111,7 @@ img {
   {% for post in site.world %}
 
     <div class="column">
-      <img src={{post.image}} style="width:100%" alt={{post.title}}>
+      <img class="demo cursor" src={{post.image}} style="width:100%" alt={{post.title}}>
     </div>
   {% endfor %}
 

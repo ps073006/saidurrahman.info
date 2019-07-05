@@ -108,7 +108,7 @@ img {
   </div>
 
   <div class="row">
-  {% for post in site.states %}
+  {% for post in site.world %}
 
     <div class="column">
       <img class="demo cursor" src={{post.image}} style="width:100%" onclick="currentSlide(1)" alt={{post.title}}>

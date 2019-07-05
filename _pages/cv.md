@@ -9,5 +9,5 @@ author_profile: true
 
 
 {% for post in site.travel %}
-  {% include gallery.html %}
+  {% include archive-single.html %}
 {% endfor %}

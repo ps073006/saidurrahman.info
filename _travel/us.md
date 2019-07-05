@@ -94,12 +94,12 @@ img {
 
 
 <div class="container">
-  <div class="mySlides">
-    <img src="/images/us.png" style="width:100%">
-  </div>
-  <div class="mySlides">
-      <img src="/images/us.png" style="width:100%">
+  {% for post in site.states %}
+    <div class="mySlides">
+      <img src={{post.images}} style="width:100%">
     </div>
+  {% endfor %}
+
   <a class="prev" onclick="plusSlides(-1)">❮</a>
   <a class="next" onclick="plusSlides(1)">❯</a>
 
@@ -108,9 +108,13 @@ img {
   </div>
 
   <div class="row">
+  {% for post in site.states %}
+
     <div class="column">
-      <img class="demo cursor" src="/images/us.png" style="width:100%" onclick="currentSlide(1)" alt="The Woods">
+      <img class="demo cursor" src={{post.images}} style="width:100%" onclick="currentSlide(1)" alt="The Woods">
     </div>
+  {% endfor %}
+
     </div>
   </div>
 </div>

@@ -233,6 +233,24 @@ defaults:
       author_profile: true
       share: true
       comment: true
+  # _states
+  - scope:
+      path: ""
+      type: states
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+  # _world
+  - scope:
+      path: ""
+      type: world
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
   # _talks
   - scope:
       path: ""

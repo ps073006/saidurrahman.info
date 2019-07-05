@@ -1,6 +1,6 @@
 ---
 title: "'Garden of the God, CO'"
-image: "'https://drive.google.com/open?id=1Tu9c71bRFCupV-YHlAqYJ-FOKfUYf-bR'"
+image: "'/images/garden-god-co.jpg'"
 collection: states
 state: "'Colorado'"
 ---

@@ -179,7 +179,6 @@ function showSlides(n) {
         {{ content }}
         {{page.images.size}}
         {% if page.link %}<div><a href="{{ page.link }}" class="btn">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
-        {% if page.images.size > 0 %}
         <div class="container">
           {% for test in post.images %}
               <div class="mySlides">
@@ -198,7 +197,6 @@ function showSlides(n) {
               </div>
           </div>
           {% endfor %}
-        {% endif%}
 
       </section>
 

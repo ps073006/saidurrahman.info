@@ -1,6 +1,6 @@
 ---
 title: "'Montana'"
-image: "'/images/us.png'"
+image: "'/images/mt.png'"
 collection: states
 ---
 ulala

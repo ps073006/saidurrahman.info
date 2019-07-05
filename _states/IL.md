@@ -1,6 +1,6 @@
 ---
 title: "'Illinois'"
-image: "'/images/us.png'"
+image: "'/images/il.png'"
 collection: states
 ---
 ulala

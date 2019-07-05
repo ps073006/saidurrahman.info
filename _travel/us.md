@@ -111,7 +111,7 @@ img {
   {% for post in site.states %}
 
     <div class="column">
-      <img class="demo cursor" src={{post.images}} style="width:100%" onclick="currentSlide(1)" alt="The Woods">
+      <img class="demo cursor" src={{post.image}} style="width:100%" onclick="currentSlide(1)" alt="The Woods">
     </div>
   {% endfor %}
 

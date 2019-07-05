@@ -1,5 +1,5 @@
 ---
-title: "Illinois"
+title: "'Illinois'"
 image: "'/images/us.png'"
 collection: states
 ---

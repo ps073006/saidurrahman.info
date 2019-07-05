@@ -1,5 +1,5 @@
 ---
-title: "Montana"
+title: "'Montana'"
 image: "'/images/us.png'"
 collection: states
 ---

@@ -175,6 +175,9 @@ collections:
   travel:
     output: true
     permalink: /:collection/:path/
+  states:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults

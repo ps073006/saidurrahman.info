@@ -1,7 +1,6 @@
 ---
-title: "'Garden of the God, CO, USA'"
-image: "'/images/garden-god-co.jpg'"
+title: "'Grand Canyon, USA'"
+image: "'/images/usa.jpg'"
 collection: world
-state: "'Colorado'"
+state: "'USA'"
 ---
-ulala

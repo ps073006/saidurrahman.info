@@ -1,6 +1,6 @@
 ---
 title: "US State"
-excerpt: "Visited US State with images <br/><img src='us.png'>"
+excerpt: "Visited US State with images <br/><img src='/images/us.png'>"
 collection: Travel
 ---
 

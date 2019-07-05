@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Portfolio"
-permalink: /cv/
+title: "Traveling"
+permalink: /travel/
 author_profile: true
 ---
 

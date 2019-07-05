@@ -177,10 +177,8 @@ function showSlides(n) {
 
       <section class="page__content" itemprop="text">
         {{ content }}
-        {{page.images.size}}
-        <img src="world.png" style="width:100%">
-        {% for test in post.images %}
-          <p class="archive__item-excerpt" itemprop="description">{{ test | markdownify }}</p>
+        {% for post in site.travel.states %}
+          {% include archive-single.html %}
         {% endfor %}
         {% if page.link %}<div><a href="{{ page.link }}" class="btn">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
 

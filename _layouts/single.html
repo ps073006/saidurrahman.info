@@ -35,15 +35,7 @@ layout: default
         {% elsif page.venue and page.date %}
           <p>Published in <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% endif %}
-        {% if page.images.size > 0 %}
-          {% for test in post.images %}
-            {% if test and site.read_more != 'enabled' %}
-            <p class="archive__item-excerpt" itemprop="description">{{ test | markdownify }}</p>
-            {% elsif test and site.read_more == 'enabled' %}
-            <p class="archive__item-excerpt" itemprop="description"><p>{{ test | markdownify | remove: '<p>' | remove: '</p>' }}<strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong></p></p>
-            {% endif %}
-          {% endfor %}
-        {% endif%}
+
 
         {% if page.citation and page.paperurl %}
           <p>Recommended citation: {{ page.citation }} <a href="{{ page.paperurl }}"><u>{{ page.paperurl }}</u></a></p>
@@ -57,6 +49,16 @@ layout: default
       <section class="page__content" itemprop="text">
         {{ content }}
         {% if page.link %}<div><a href="{{ page.link }}" class="btn">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
+        {% if page.images.size > 0 %}
+          {% for test in post.images %}
+            {% if test and site.read_more != 'enabled' %}
+            <p class="archive__item-excerpt" itemprop="description">{{ test | markdownify }}</p>
+            {% elsif test and site.read_more == 'enabled' %}
+            <p class="archive__item-excerpt" itemprop="description"><p>{{ test | markdownify | remove: '<p>' | remove: '</p>' }}<strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong></p></p>
+            {% endif %}
+          {% endfor %}
+        {% endif%}
+
       </section>
 
       {% include post_pagination.html %}

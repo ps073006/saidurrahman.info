@@ -4,6 +4,7 @@ collection: publications
 duration: "<b>(Fall 2017-Summer 2020)</b>"
 permalink: /research/mr-dns
 number: 2
+type: "PhD Research"
 ---
 
 ## Abstract

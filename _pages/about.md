@@ -29,8 +29,14 @@ function getAge() {
 
     if (doyNow <= doyBirth)
         age--;  // birthday not yet passed this year, so -1
-
-    return age;
+    if(age>2)
+    {
+      document.write(age+"rd");
+    }
+    else
+    {
+      document.write(age+"nd");      
+    }
 };
 
 

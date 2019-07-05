@@ -180,7 +180,7 @@ function showSlides(n) {
         {{page.images.size}}
         <img src="world.png" style="width:100%">
         {% for test in post.images %}
-          <img src="us.png" style="width:100%">
+          <p class="archive__item-excerpt" itemprop="description">{{ test | markdownify }}</p>
         {% endfor %}
         {% if page.link %}<div><a href="{{ page.link }}" class="btn">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
 

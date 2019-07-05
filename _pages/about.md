@@ -37,7 +37,7 @@ function getAge() {
     {
       document.write(age+"nd");      
     }
-};
+}
 
 
 </script>

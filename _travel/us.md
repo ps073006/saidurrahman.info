@@ -3,6 +3,8 @@ title: "US States"
 excerpt: "Visited US State with images <br/><img src='/images/us.png'>"
 collection: Travel
 ---
+<html>
+<meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
 body {
   font-family: Arial;
@@ -88,11 +90,14 @@ img {
   opacity: 1;
 }
 </style>
+<body>
 
 
 <div class="container">
   {% for post in site.states %}
+    <div class="mySlides">
       <img src={{post.image}} style="width:100%">
+    </div>
   {% endfor %}
 
   <a class="prev" onclick="plusSlides(-1)">❮</a>
@@ -144,3 +149,6 @@ function showSlides(n) {
   captionText.innerHTML = dots[slideIndex-1].alt;
 }
 </script>
+
+</body>
+</html>

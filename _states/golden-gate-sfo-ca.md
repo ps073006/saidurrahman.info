@@ -1,6 +1,6 @@
 ---
 title: "'Golden Gate Bridge, San Francisco, CA'"
-image: "'/images/golden-gate-sfo-ca.jpg'"
+image: "'https://is.gd/atVYkQ'"
 collection: states
 state: "'California'"
 ---

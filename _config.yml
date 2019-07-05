@@ -178,6 +178,9 @@ collections:
   states:
     output: true
     permalink: /:collection/:path/
+  world:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults

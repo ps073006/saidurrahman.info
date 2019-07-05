@@ -178,11 +178,13 @@ function showSlides(n) {
       <section class="page__content" itemprop="text">
         {{ content }}
         {{page.images.size}}
+        <img src="world.png" style="width:100%">
+        {% for test in post.images %}
+          <img src="us.png" style="width:100%">
+        {% endfor %}
         {% if page.link %}<div><a href="{{ page.link }}" class="btn">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
 
-        {% for test in post.images %}
-              <img src="us.png" style="width:100%">
-        {% endfor %}
+
 
       </section>
 

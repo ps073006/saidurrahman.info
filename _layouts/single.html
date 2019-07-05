@@ -51,11 +51,7 @@ layout: default
         {% if page.link %}<div><a href="{{ page.link }}" class="btn">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
         {% if page.images.size > 0 %}
           {% for test in post.images %}
-            {% if test and site.read_more != 'enabled' %}
-            <p class="archive__item-excerpt" itemprop="description">{{ test | markdownify }}</p>
-            {% elsif test and site.read_more == 'enabled' %}
-            <p class="archive__item-excerpt" itemprop="description"><p>{{ test | markdownify | remove: '<p>' | remove: '</p>' }}<strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong></p></p>
-            {% endif %}
+            <div><a href="{{ page.link }}" class="btn">{{ test | markdownify }}</a></div>
           {% endfor %}
         {% endif%}
 

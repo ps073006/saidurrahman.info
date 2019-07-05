@@ -172,7 +172,7 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
-  Research:
+  travel:
     output: true
     permalink: /:collection/:path/
 
@@ -219,6 +219,15 @@ defaults:
   - scope:
       path: ""
       type: portfolio
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+  # _travel
+  - scope:
+      path: ""
+      type: travel
     values:
       layout: single
       author_profile: true

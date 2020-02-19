@@ -44,6 +44,6 @@ function getAge() {
 <body>
 <p align="justify">I am Saidur Rahman, a Ph.D. student (joined Fall-2017) in Computer Science at Montana State University, Bozeman, Montana. My advisor is <a href="https://www.cs.montana.edu/mwittie/">Dr. Mike Wittie</a>. Currently, I am interested in applications of Augmented Reality in the intersection of edge, serverless computing paradigms. I am focusing my research activities towards this goal and tailoring my courses to increase knowledge in this area. Previously, I worked on DNS resolutions and Web performance.</p>
 
-<p align="justify">I am from Dhaka, Bangladesh which has full of natural beauties located in South Asia. I have done my B. Sc in Department of Computer Science & Engineering, University of Dhaka. My CV is available for download <a href="https://drive.google.com/open?id=1P2sh8vJzxCewPUvkCodSXcHtJ49Y0gBL">here</a> (Last updated 10/18/2018).</p>
+<p align="justify">I am from Dhaka, Bangladesh which has full of natural beauties located in South Asia. I have done my B. Sc in Department of Computer Science & Engineering, University of Dhaka. My CV is available for download <a href="https://drive.google.com/open?id=1P2sh8vJzxCewPUvkCodSXcHtJ49Y0gBL">here</a> (Last updated 02/18/2020).</p>
 </body>
 </html>
